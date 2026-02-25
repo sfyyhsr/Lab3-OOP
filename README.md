@@ -6,7 +6,5 @@ Lab 3 project about Matrix and Vector system in C# using:
 - Aggregation
 - Dependency
 
-## How to Run
+# How to Run
 Open the solution in VS and run the program.
-
-Byee
