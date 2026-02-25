@@ -1,10 +1,12 @@
-# Lab 3 - OOP Project
+# Lab 3 - OOP
 
-This project demonstrates a matrix and vector system in C# using:
+Lab 3 project about Matrix and Vector system in C# using:
 - Encapsulation
 - Composition
 - Aggregation
 - Dependency
 
 ## How to Run
-Open the solution in Visual Studio and run the program.
+Open the solution in VS and run the program.
+
+Byee
